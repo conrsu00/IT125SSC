@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html lang="en">
+ <head> 
+<title>The Life of Me</title> <meta charset="utf-8"> 
+<link rel="stylesheet" href="format1.css"> 
+</head> 
+<body>  
+ <header>
+<h1>The Conrad</h1>
+</header>   
+<main>
+  <p> Everyday I wake up and am excited for a new day to make a difference.  Life is what you make of it so give it your best! Teaching IT125 Web Development is great fun for me. Here is a list of functions we learned this week.</p>  
+ <ul>      
+	<li>Linking Style Sheets</li> 
+   	<li>Embedding style “in-line”</li> 
+	<li>Importing external CSS formats - zengarden</li>
+  </ul>   
+<div><a href=“http://www.marymount.edu</a>
+</div>   
+</main>   
+<footer><a href="mailto:webdevfoundations@hotmail.com">webdevfoundations@hotmail.co m</a></footer> 
+</body> 
+</html>
